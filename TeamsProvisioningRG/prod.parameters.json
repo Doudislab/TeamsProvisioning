@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "appName": {
-        "value": "TeamsProvisioningProd"
+        "value": "TeamsProvisioning"
       },
       "repoUrl": {
-        "value": "https://github.com/BobGerman/TeamsProvisioning.git"
+        "value": "https://github.com/Doudislab/TeamsProvisioning.git"
       },
       "branch": {
         "value": "prod"
       },
       "TENANT": {
-        "value": "a25d4ef1-c73a-4dc1-bdb1-9a342260f216"
+        "value": "4a29f5d2-5cc4-4ea1-b3fd-e9b333c8ccbf"
       },
       "TENANT_NAME": {
-        "value": "bgtest18"
+        "value": "Dolder Services"
       },
       "CLIENT_ID": {
-        "value": "3b34741d-68fc-4465-b25e-d6fba3de701d"
+        "value": "eb919a24-bef7-4c52-a837-42c9c8a796ec"
       },
       "CLIENT_SECRET": {
-        "value": "@Microsoft.KeyVault(SecretUri=https://teamsprovisioning.vault.azure.net/secrets/client-secret/cd56ab45a33e47bfb0b091c75b99099a)"
+        "value": "@Microsoft.KeyVault(SecretUri=https://teamsprovisioning-secret.vault.azure.net/secrets/TeamsProvisioningAPP/e6f1afcbe32448b29cbd3ca6b4593db4)"
       },
       "TEMPLATE_SITE_URL": {
         "value": "/sites/TeamsProvisioning"
